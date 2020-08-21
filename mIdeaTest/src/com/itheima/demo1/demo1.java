@@ -7,5 +7,6 @@ public class demo1 {
 
         System.out.println("I am Dev01, add new code 111");
 
+        System.out.println("I am master branch, add new code 222");
     }
 }
